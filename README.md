@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @msveelin
+- 👀 I’m interested in software development , artiificial intelligence and machine learning
+- 🌱 I’m currently learning the MERN STACK
+- 📫 How to reach me: veelin22@gmail.com
